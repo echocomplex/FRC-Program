@@ -92,7 +92,7 @@ void FRC::CFXWalk (const std::filesystem::path& path) {
                 else if (letters = "bgnlock") {
                     result = "startlock" + digits;
                 }
-                
+                break;
             }
         }
     }

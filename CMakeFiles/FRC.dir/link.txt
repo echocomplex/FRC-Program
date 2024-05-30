@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/FRC.dir/main.cpp.o -o FRC

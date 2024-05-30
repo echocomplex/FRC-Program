@@ -1,0 +1,3 @@
+/mnt/d/project-codes/C++/FRC-Program/CMakeFiles/LaunchFRC.dir
+/mnt/d/project-codes/C++/FRC-Program/CMakeFiles/edit_cache.dir
+/mnt/d/project-codes/C++/FRC-Program/CMakeFiles/rebuild_cache.dir
